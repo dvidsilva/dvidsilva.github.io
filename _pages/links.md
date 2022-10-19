@@ -1,0 +1,22 @@
+---
+layout: page
+title: links
+permalink: /links/
+description: A growing collection of links to interesting content.
+nav: true
+nav_order: 1
+display_categories: [work, fun]
+horizontal: false
+---
+
+<!-- pages/links.md -->
+<div class="projects">
+  <!-- Display categorized links -->
+  <h2 class="category">Books</h2>
+  {%- for book in site.data.links.books %}
+  <!-- Generate cards for each project -->
+  <div class="grid">
+    {% include links.html %}
+  </div>
+  {% endfor %}
+</div>
