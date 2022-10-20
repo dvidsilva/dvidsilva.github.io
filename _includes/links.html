@@ -1,21 +1,21 @@
 <!-- _includes/links.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="{{ book.url | relative_url }}">
+  <a href="{{ link.url | relative_url }}">
     <div class="card hoverable">
-      {%- if book.img %}
+      {%- if link.img %}
       {%- include figure.html
-      path=book.img
+      path=link.img
       alt="link thumbnail" -%}
       {%- endif %}
       <div class="card-body">
-        <h2 class="card-title text-lowercase">{{ book.title }}</h2>
-        <p class="card-text">{{ book.description }}</p>
+        <h2 class="card-title text-lowercase">{{ link.title }}</h2>
+        <p class="card-text">{{ link.description }}</p>
         <div class="row ml-1 mr-1 p-0">
-          {%- if book.github -%}
+          {%- if link.github -%}
           <div class="github-icon">
             <div class="icon" data-toggle="tooltip" title="Code Repository">
-              <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
+              <a href="{{ book.url }}"><i class="fab fa-github gh-icon"></i></a>
             </div>
           </div>
           {%- endif %}

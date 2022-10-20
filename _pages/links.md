@@ -13,18 +13,20 @@ horizontal: true
 <div class="projects">
   <!-- Display categorized links -->
   <h2 class="category">Books</h2>
-  {%- for book in site.data.links.books %}
-    <!-- Generate cards for each project -->
+  <!-- Generate cards for each project -->
     {% if page.horizontal -%}
     <div class="container">
-      <div class="row row-cols-2">
+      <div class="row row-cols-1">
+      {%- for link in site.data.links.books %}
         {% include links_horizontal.html %}
+      {% endfor %}
       </div>
     </div>
     {%- else -%}
     <div class="grid">
-      {% include links.html %}
+      {%- for link in site.data.links.books %}
+        {% include links.html %}
+      {% endfor %}
     </div>
     {%- endif -%}
-  {% endfor %}
 </div>
