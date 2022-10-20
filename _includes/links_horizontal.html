@@ -3,7 +3,7 @@
     <div class="row g-0">
       {%- if link.img -%}
       <div class="card-img col-md-6">
-        {% include figure.html path=link.img alt="project thumbnail" %}
+        {% include figure.html path=link.img alt={link.title} %}
         </div>
         <div class="col-md-6">
           {%- else -%}
@@ -18,9 +18,9 @@
               {%- endif -%}
               </h3>
               <p class="card-text">
-              
+
                 {{ link.description }}
-              
+
               </p>
               <p class="card-text">
                 {%- if link.category -%}
