@@ -43,6 +43,16 @@ Any artist can practice psychomagic, psychoanalists aim to translate the the sub
 
 Repressed desires can be fullfiled metaphorically. The participants need to understand the risks involved in any act, the same power that heals can scar. Acts must always end in a positive note, or it can further the damage on the participants.
 
+## Psychomagic and burning man
+
+According to Burning Man philosopher and historian Caveat Magister, burning man was created by psychomagicians.
+
+Studying their history and psychomagic reveals the techniques for creating the magical, impossible, life-changing experiences developed over 30 years by San Francisco’s underground art scene — experiences that Caveat says became the very source code of Burning Man culture.
+
+> The point is that the things that really reach us, reach us not so much in the conscious mind, but in the unconscious mind, the subconscious mind, the regions of us that are below our conscious awareness, but still really move us and shake us and engage us and motivate us in ways that we don’t understand.
+
+\- Caveat Magister
+
 ## Further Reading
 
 [Manual of Psychomagic: The practice of shamanic psychoterapy](https://bookshop.org/p/books/manual-of-psychomagic-the-practice-of-shamanic-psychotherapy-alejandro-jodorowsky/7178851?ean=9781620551073)
@@ -54,3 +64,5 @@ Repressed desires can be fullfiled metaphorically. The participants need to unde
 [Religion for Atheists: A Non-Believer's Guide to the Uses of Religion](https://bookshop.org/p/books/religion-for-atheists-a-non-believer-s-guide-to-the-uses-of-religion-alain-de-botton/8612449?ean=9780307476821)
 
 [Sanar con psicomagia](https://planosinfin.com/sanar-con-psicomagia-lluvia-de-preguntas-y-respuestas/)
+
+[Turn Your Life Into Art — An Interview with Caveat Magister About His New Book](https://journal.burningman.org/2021/07/opinion/shenanigans/turn-your-life-into-art-caveat-interview/)
