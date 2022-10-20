@@ -10,12 +10,23 @@
           <div class="col-md-12">
             {%- endif -%}
             <div class="card-body">
-              {%- if link.url -%}
               <h3 class="card-title text-lowercase">
+              {%- if link.url -%}
                 <a href="{{ link.url }}">{{link.title}} </a>
-              </h3>
+              {%- else -%}
+              {{link.title}}
               {%- endif -%}
-            <p class="card-text">{{ link.description }}</p>
+              </h3>
+              <p class="card-text">
+              
+                {{ link.description }}
+              
+              </p>
+              <p class="card-text">
+                {%- if link.category -%}
+                category: {{link.category}}
+                {%- endif -%}
+              </p>
             </div>
             </div>
             </div>
