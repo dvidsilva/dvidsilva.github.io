@@ -19,6 +19,6 @@ Consider David a generic coach, and whatever content is probably found on any co
 
 To learn more about [psychomagic](/psychomagic), and their work checkout the books, videos and podcasts recommended in [links](/links).
 
-David has been involved in activism, community, public speaking, spirituality and arts for 20+ years.
+David has been involved in activism, community, public speaking, spirituality and arts for 20+ years. They're currently working as a web developer and producer around New York, and offering coaching services.
 
-He's currently working as a web developer and producer around New York, and offering coaching services.
+David and his fiance Lily are on a mission to heal the planet by practicing and encouraging kindness. Learn more about [our queendom](https://github.com/dvidsilva/queendom).
