@@ -48,6 +48,10 @@ Oh, but how do I help others when nobody helps me and I really need help? That's
 
 We need to continue fighting for systemic change, but is going to be very difficult to revolt on an empty stomach, let's continue practicing [mutual aid](https://en.wikipedia.org/wiki/Mutual_aid_(organization_theory)) as much as we can in the meantime.
 
+## Interventions
+
+Don't wanna talk much about this, but don't do it, watch this  [youtube video instead](https://www.youtube.com/watch?v=dZg4KQUxOM4), read this post again and figure out something better.
+
 ## Raves, burning man and community
 
 I have several years of experience running communities and being a part of them, mostly known for my work with Techqueria, the largest community for latinx in tech. Wanted to bring special attention to some of the ways that community makes a big difference on people, and how community can be found in any place. I have a longer post about community on [medium](https://medium.com/@dvidsilva/mussings-about-community-1093136ae9b6?source=rss-7090ff0fbab0------2).
