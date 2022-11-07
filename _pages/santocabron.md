@@ -2,7 +2,7 @@
 layout: landing
 title: santo cabron
 permalink: /santocabron/
-og_image: /assets/img/santocabron.png
+og_image: /assets/img/santocabron-horizontal.png
 description: 'Santo Cabron is an alterlatinx art collective in NY. Support their brujas and warlocks create participatory experiences. #alterlatinx #horneylife #santocabron'
 nav: false
 horizontal: true
@@ -33,6 +33,6 @@ Coming soon...
       {% endfor %}
     </div>
     {%- endif -%}
+  <img src="/assets/img/santocabron-horizontal.png" alt="santo cabron" style="max-width: 100%">
 </div>
 
-![santo cabron](/assets/img/santocabron.png)
