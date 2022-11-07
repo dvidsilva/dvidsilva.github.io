@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: santo cabron
 permalink: /santocabron/
 og_image: /assets/img/santocabron.png
