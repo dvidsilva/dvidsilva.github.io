@@ -1,14 +1,16 @@
 general:
+  - title: AWSM
+    url: "https://awsm.vc"
+    category: venture studio
+    description: newly formed venture school and studio created to provide analysis, product development support, coaching and capital access to early stage startups.
   - title: morir soñando
     url: "https://www.morirsoniando.com"
     author: "@dvidsilva"
     category: shop
     description: morir soñando is an online store where you can buy designs by daveed and his friends
-  - title: Only Burners
-    url: "https://demo.onlyburners.com"
-    author: "@dvidsilva"
-    description: >
-      Working on a new startup idea to create a platform for artists to support each other
+  - title: "Fireside Project’s Guide to Psychedelic Citizenship"
+    url: "https://firesideproject.org/psychedelic-citizenship"
+    description:  envision a psychedelic community where each person is empowered with the skills and knowledge to stay safe and support each other as they navigate their psychedelic experiences. find important safety tips; tools for supporting loved ones during and after psychedelic journeys; warning signs when selecting a psychedelic facilitator; and an overview of some of the many lies at the foundation of the War on Drugs
   - title: Communication, Mediation, and Conflict Resolution Strategies
     url: "https://rangers.burningman.org/training/communication-mediation-resolution/"
     description: >
@@ -45,3 +47,20 @@ general:
     url: https://www.youtube.com/watch?v=0gwGYSrdCFUo
     description: ABC Nightlife coverage of Burning Man 1997.  Interviews of Larry Harvey, Marian Goodell, Michael Christian, Spencer Tunick, Michael Mikel, Tony Coyote, Sheriff Richard Kirkland  and others
     category: video
+  - title: Only Burners
+    url: "https://demo.onlyburners.com"
+    author: "@dvidsilva"
+    description: >
+      Working on a new startup idea to create a platform for artists to support each other
+santocabron:
+  - title: instagram
+    url: "https://instagram.com/santo_cabron"
+    author: "@santo_cabron"
+    description: >
+      Follow us there for event announcements
+  - title: t-shirt
+    url: "https://morirsoniando.bigcartel.com/product/soy-santo-cabron"
+    author: "@dvidsilva"
+    description: >
+      Become one of us, comes with self-indoctrination manual and office hours with baphy
+
