@@ -66,7 +66,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-
+mastodon_url: https://blackrock.city/@daveed
 github_username: dvidsilva # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: dvidsilva # your Twitter handle
