@@ -9,7 +9,10 @@ horizontal: true
 ---
 
 ## Events
-Coming soon...
+
+### El baile de los ke sobran (jan 27 8pm - late)
+
+Santo Cabron invites you to Vasos Vacios, a space for the alterlatinx community and their friends. [https://bit.ly/santocabron123](https://bit.ly/santocabron123).
 
 <div class="projects">
   <!-- Display categorized links -->
