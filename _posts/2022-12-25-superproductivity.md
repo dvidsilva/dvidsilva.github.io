@@ -10,7 +10,7 @@ og_image: assets/img/posts/rayogram.jpeg
 
 I often get asked about my time management, any particular week I'm simultaneously working on an arts collective, producing events, managing a community, coding, managing coders, cooking, taekwondo, rabbinical school, etc. Not in an uniquely busy manner, more like humanely impossible when considering the bounds of reality.
 
-Twenty twenty two alone I was a part time freelance web developer, co-producer and emotional safety lead in nyc nightlife and burning man events, got promoted three times on taekwondo, traveled, started a new job as CTO, got engaged, moved in with my fiancé, podcasts, fundraisers, conferences, etc. Not to brag or whatever, because I don't care, but to help you consider the possibilities. Also, FYI, real humbleness is about truth, not diminishing yourself.[*](https://torah.org/learning/mlife-ch2law3b/)
+During 2022 I was a part time freelance web developer, co-producer and emotional safety lead in nyc nightlife and burning man events, got promoted three times on taekwondo, traveled, started a new job as CTO, got engaged, moved in with my fiancé, podcasts, fundraisers, conferences, art, cooking, etc. And I spend most of my time lounging or playing. Not to brag or whatever, because I don't care, but to help you consider the possibilities. Also, FYI, real humbleness is about truth, not diminishing yourself.[*](https://torah.org/learning/mlife-ch2law3b/)
 
 For 2023 the list is even longer and more ambitious, and some of the people involved wanted me to write this down, and here we are. I hope this short read can inspire you and give you some ideas that you can easily put into practice at your own convenience, or share it mockingly, it helps us either way.
 
@@ -37,10 +37,15 @@ Whenever you feel anxious or distraught, is very important to deal with that fir
 
 ### Physical health
 
+Being healthy physically is super important too, no excuses, people hurt themselves and die much younger because of the stress caused to their boddies. See [The myth of normal](https://bookshop.org/p/books/the-myth-of-normal-trauma-illness-and-healing-in-a-toxic-culture-gabor-mate/17446136?ean=9780593083888).
 
-physical health super imporotant, active, diet that is like fine
+You should aim to be regularly active, eat well and add extra exercise and nature as often as you can. Depending on your style I recommend chosing from:
+* [5x5](https://stronglifts.com/5x5/) weighlifting training that can be done alone, easy to pick up for begginers and fits very well in any schedule
+* [Resistance bands](https://gympion.com/blog/how-to-use-resistance-bands-at-home) are easy to use at home, adjusts well for any discipline level
+* Martial arts or group classes are awesome because they also add a community element, to me is all the same, find whatever is easy for you to get to and has people that you enjoy spending time with
+* Hikes and long walks, and nature hobbies are awesome ways to spend time with friends and staying healthy
 
-community and friends super important, yes and
+### Community
 
 harm reduction
 
@@ -53,9 +58,8 @@ discipline, develop your own system
 **[Santo Cabron](https://instagram.com/santo_cabron)**
 
 
-<img src="/assets/img/posts/santo_cabron_team.jpg" alt="santo cabron team" style="max-width: 100%">
+<img src="/assets/img/posts/rayogram.jpeg" alt="Rayogram from college" style="max-width: 100%">
 
-For more tips and continuing training buy my retreat for $50000000 or something.
+For more tips and continuing training buy my retreat for $5000 or something.
 
 <img src="/assets/img/posts/dollars.jpeg" alt="self portrait of every guru" style="max-width: 100%">
-
