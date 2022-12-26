@@ -2,17 +2,15 @@
 layout: post
 title: Super Productivity tips
 date: 2022-12-25 00:04:20
-description: Collection of advice that can get you closer to super productivity levels
+description: do more by sleeping more
 og_image: assets/img/posts/rayogram.jpeg
 ---
 
-**Happy holidays 2022! Now that many are planning their upcoming year, coming up with goals and plans to achieve them, I wanted to share some of my easiest productivity tips.**
+**Happy holidays 2022! Hannukah 5783! 🪬 Now that many are planning their upcoming year I wanted to share some of my easiest productivity tips.**
 
-I often get asked about my time management, any particular week I'm simultaneously working on an arts collective, producing events, managing a community, coding, managing coders, cooking, taekwondo, rabbinical school, etc. Not in an uniquely busy manner, more like humanely impossible when considering the bounds of reality.
+I often get asked about my time management, any particular week I'm  sleeping too much, partying too much, an arts collective, managing communities, coding, managing coders, cooking, taekwondo, rabbinical school, etc. Not in an uniquely busy manner, more like humanely impossible when considering the bounds of reality.
 
-During 2022 I was a part time freelance web developer, co-producer and emotional safety lead in nyc nightlife and burning man events, got promoted three times on taekwondo, traveled, started a new job as CTO, got engaged, moved in with my fiancé, podcasts, fundraisers, conferences, art, cooking, etc. And I spend most of my time lounging or playing. Not to brag or whatever, because I don't care, but to help you consider the possibilities. Also, FYI, real humbleness is about truth, not diminishing yourself.[*](https://torah.org/learning/mlife-ch2law3b/)
-
-For 2023 the list is even longer and more ambitious, and some of the people involved wanted me to write this down, and here we are. I hope this short read can inspire you and give you some ideas that you can easily put into practice at your own convenience, or share it mockingly, it helps us either way.
+I hope this short read can inspire you and give you some ideas that you can easily put into practice at your own convenience, or share it mockingly, it helps us either way.
 
 **Decisions that affect everyone were made by a few who are harming the world. Is good to stop and reconsider, why is it that I'm doing this? change our course towards community and compassion. Once enough of us have done it, the world will feel saved.**
 
@@ -47,18 +45,21 @@ You should aim to be regularly active, eat well and add extra exercise and natur
 
 ### Community
 
-harm reduction
+Joining or creating a community are keys to making anything happen; most communities are often in need of volunteers and ideas. Find a group of people that you like, or gather one, and challenge yourself to perform different roles to get a well rounded perspective.
 
-discipline, develop your own system
+### Harm reduction
 
+**Harm reduction incorporates a spectrum of strategies that includes safer use, managed use, abstinence, meeting people who use drugs “where they’re at,” and addressing conditions of use along with the use itself.** ([harm reduction coallition](https://harmreduction.org/about-us/principles-of-harm-reduction/)).
 
+These set of strategies are a useful approach to any behavior, asking oneself to stop or start doing something is extremely challenging, approach yourself and others with compassion, and try to reduce as much as possible the harm caused to others around you.
 
+### Discipline
 
+Create a personal system where you organize your activities and tasks in a way that doesn't become overwhelming, you can focus on each thing at a time and allows you to get closer to your goals.
 
-**[Santo Cabron](https://instagram.com/santo_cabron)**
+Is easier to get closer to what you eventually want by creating a system and focusing your goals in activities and not in output. For example by phrasing your goal as "write 10 minutes every day" you will be succeding at it daily vs setting a goal as "write a book", and the book is more likely to be completed.
 
-
-<img src="/assets/img/posts/rayogram.jpeg" alt="Rayogram from college" style="max-width: 100%">
+<img src="./assets/img/posts/rayogram.jpeg" alt="Rayogram from college" style="max-width: 100%">
 
 For more tips and continuing training buy my retreat for $5000 or something.
 
