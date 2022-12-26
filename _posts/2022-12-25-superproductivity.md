@@ -18,18 +18,20 @@ I hope this short read can inspire you and give you some ideas that you can easi
 
 ### Calmness & Mental health
 
-This should always be your top priority, managing to stay collected in any situation, and furthermore learning to rest and appreciate calmness will be super important to be able to do anything else. However, I don't like most commercially available approaches to mental health and the tools they provide, anecdata shows that approaches like:
+This should always be your top priority, managing to stay collected in any situation, and furthermore learning to rest and appreciate calmness will be super important to be able to do anything else.
+
+I don't like most commercially available approaches to mental health and the tools they provide, anecdata shows that approaches like:
  [CPTSD](https://bookshop.org/p/books/the-complex-ptsd-workbook-a-mind-body-approach-to-regaining-emotional-control-and-becoming-whole-arielle-schwartz/9556452?ean=9781623158248),
 [IFS](https://bookshop.org/p/books/internal-family-systems-skills-training-manual-trauma-informed-treatment-for-anxiety-depression-ptsd-substance-abuse-martha-sweezy/9850865?ean=9781683730873),
 [Logotherapy](https://bookshop.org/p/books/the-will-to-meaning-foundations-and-applications-of-logotherapy-viktor-e-frankl/11653436?ean=9780142181263), and
 [Psychomagic](https://bookshop.org/p/books/manual-of-psychomagic-the-practice-of-shamanic-psychotherapy-alejandro-jodorowsky/7178851?ean=9781620551073)
 are far more effective at dealing with different mental conditions caused by the alienation of modern society.
 
-Additionally, not only you have to deal with yourself, in order to effectively apply the discipline that you need for super productivity, you need to care about the emotional stability of people around you, I recommend familiarizing yourself with concepts like those as much as possible, and sharing with the people around you to send them on a path that will give you more calm time for yourself.
+Additionally, not only you have to deal with yourself, in order to effectively apply the discipline that you need for super productivity, you need to care about the emotional stability of people around you, I recommend familiarizing yourself with those as much as possible, and sharing with the people around you to send them on a path that will give you more calm time for yourself.
 
-Achieving a clear state of mind where you understand very well what causes your behavior is super important to later on be able to design change strategies that will get you closer to your goals.
+Achieving a clear state of mind where you understand very well what causes your behavior is super important to later on be able to design change strategies.
 
-Whenever you feel anxious or distraught, is very important to deal with that first before anything else. A task is performed much faster after pausing to take care of yourself than pushing yourself thru it; some people don't notice it because their baseline is wack due to the accumulation of stress.
+Whenever you feel anxious or distraught deal with that first. A task is performed much faster after pausing to take care of yourself.
 
 **There's no data here to persuade you, just try it for a few days and do the math.**
 
