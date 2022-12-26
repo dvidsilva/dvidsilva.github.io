@@ -37,17 +37,18 @@ Whenever you feel anxious or distraught deal with that first. A task is performe
 
 ### Physical health
 
-Being healthy physically is super important too, no excuses, people hurt themselves and die much younger because of the stress caused to their boddies. See [The myth of normal](https://bookshop.org/p/books/the-myth-of-normal-trauma-illness-and-healing-in-a-toxic-culture-gabor-mate/17446136?ean=9780593083888).
+Being healthy physically is super important too, no way around it, people hurt themselves because of the stress added to their boddies. [The myth of normal](https://bookshop.org/p/books/the-myth-of-normal-trauma-illness-and-healing-in-a-toxic-culture-gabor-mate/17446136?ean=9780593083888).
 
-You should aim to be regularly active, eat well and add extra exercise and nature as often as you can. Depending on your style I recommend chosing from:
+You should aim to be at least a little active, eat well and add extra exercise and nature as often as you can. Depending on your style I recommend chosing from:
 * [5x5](https://stronglifts.com/5x5/) weighlifting training that can be done alone, easy to pick up for begginers and fits very well in any schedule
 * [Resistance bands](https://gympion.com/blog/how-to-use-resistance-bands-at-home) are easy to use at home, adjusts well for any discipline level
 * Martial arts or group classes are awesome because they also add a community element, to me is all the same, find whatever is easy for you to get to and has people that you enjoy spending time with
 * Hikes and long walks, and nature hobbies are awesome ways to spend time with friends and staying healthy
+* Cleaning, cooking and crafting are helpful in staying active
 
 ### Community
 
-Joining or creating a community are keys to making anything happen; most communities are often in need of volunteers and ideas. Find a group of people that you like, or gather one, and challenge yourself to perform different roles to get a well rounded perspective.
+Joining or creating a community are keys to making anything happen; communities are often in need of volunteers and ideas. Find a group of people that you like, or gather one, and challenge yourself to perform different roles to get a well rounded perspective.
 
 ### Harm reduction
 
@@ -57,12 +58,10 @@ These set of strategies are a useful approach to any behavior, asking oneself to
 
 ### Discipline
 
-Create a personal system where you organize your activities and tasks in a way that doesn't become overwhelming, you can focus on each thing at a time and allows you to get closer to your goals.
+Create a personal system where you organize your tasks in a way that doesn't become overwhelming. Focusing and boundaries.
 
-Is easier to get closer to what you eventually want by creating a system and focusing your goals in activities and not in output. For example by phrasing your goal as "write 10 minutes every day" you will be succeding at it daily vs setting a goal as "write a book", and the book is more likely to be completed.
+Is easier to get closer to what you want by creating a system and focusing your goals in activities and not in output. For example by phrasing your goal as "write 10 minutes every day" you will be succeding at it daily vs setting a goal as "write a book", and the book is more likely to be completed.
 
-<img src="./assets/img/posts/rayogram.jpeg" alt="Rayogram from college" style="max-width: 100%">
+<img src="/assets/img/posts/rayogram.jpeg" alt="Rayogram from college" style="max-width: 100%">
 
-For more tips and continuing training buy my retreat for $5000 or something.
-
-<img src="/assets/img/posts/dollars.jpeg" alt="self portrait of every guru" style="max-width: 100%">
+Make a system that provides you with the things that you need instead of trying to adapt yourself to someone elses's guidance.
