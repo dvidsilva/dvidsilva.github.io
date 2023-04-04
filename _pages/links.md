@@ -32,4 +32,7 @@ horizontal: true
       {% endfor %}
     </div>
     {%- endif -%}
+  <p>
+    <a rel="me" href="https://mstdn.social/@daveed">@Mastodon</a>
+  </p>
 </div>
