@@ -83,4 +83,13 @@ santocabron:
     description: Community conversations, event planning and other opportunities
   - title: soundcloud
     url: https://soundcloud.com/santo_cabron
+  - title: burning man camp
+    url: "#"
+    author: '@santo_cabron'
+    description: Fill out the google form
+  - title: El mito del santo cabron en spotify podcasts
+    url: https://open.spotify.com/episode/70NH9rBDHOvi1TpERHaEIk?si=d3NzxdQQR1GXT0HSjbmqRA
+    author: '@santo_cabron'
+    description: Conoce como el santo cabron le enseño vallenato a Felipe el hombre después de que este se lo encontrara caminando con su acordeon por el valle de magdalena
+
 
