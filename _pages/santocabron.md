@@ -7,12 +7,7 @@ description: 'Santo Cabron is an alterlatinx art collective in NY. Support their
 nav: false
 horizontal: true
 ---
-
-## Events
-
-### Santo Cabron presenta: Vasos Vacios (jan 27 8pm - late)
-
-Save the date, santo cabron is coming back to the copacabana. DM us in IG or facebook to participate. [https://bit.ly/santocabron123](https://bit.ly/santocabron123).
+## Links in bio
 
 <div class="projects">
   <!-- Display categorized links -->
