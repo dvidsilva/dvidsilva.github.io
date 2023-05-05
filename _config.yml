@@ -1,6 +1,24 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+name: dvidsilva
+tagline: Daveed is a psychomagician and web developer based in NY
+baseurl: ''
+url: https://dvidsilva.com
+author: daveed
+description: Daveed is an artist in upstate NY
+dest: build
+css: tailwind
+include:
+    - layouts
+    - pages
+    - posts
+    - data
+copy:
+    - public
+exclude:
+    - .draft.md
+version: 3
 
 title: Daveed Silva # the website title (if blank, full name will be used instead)
 first_name: Daveed

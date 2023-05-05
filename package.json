@@ -1,0 +1,19 @@
+{
+  "name": "dvidsilva.github.io",
+  "version": "1.0.0",
+  "description": "Website for daveed, founder of techqueria, santo cabron, gloriajs ",
+  "main": "index.js",
+  "repository": "git@github.com:dvidsilva/dvidsilva.github.io.git",
+  "author": "david <daveed@awsm.vc>",
+  "license": "MIT",
+  "scripts": {
+    "gloria-local": "../gloria/bin/gloria",
+    "gloria": "./node_modules/gloriajs/bin/gloria",
+    "write": "./node_modules/gloriajs/bin/gloria write",
+    "local-server": "npx -y http-server build",
+    "build": "./node_modules/gloriajs/bin/gloria build"
+  },
+  "dependencies": {
+    "gloriajs": "^2.1.9"
+  }
+}
