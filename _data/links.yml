@@ -12,6 +12,10 @@ general:
     url: https://www.stickermule.com/u/daveed
     category: shop
     description: order some of my stickers and designs directly to your home
+  - title: Mastodon
+    url: https://mstdn.social/@daveed
+    category: social
+    description: Follow me on the elephant site
   - title: "Fireside Project’s Guide to Psychedelic Citizenship"
     url: "https://firesideproject.org/psychedelic-citizenship"
     description:  envision a psychedelic community where each person is empowered with the skills and knowledge to stay safe and support each other as they navigate their psychedelic experiences. find important safety tips; tools for supporting loved ones during and after psychedelic journeys; warning signs when selecting a psychedelic facilitator; and an overview of some of the many lies at the foundation of the War on Drugs
@@ -60,6 +64,9 @@ general:
     url: https://www.therecoveryvillage.com/treatment-program/addiction-therapies/art-therapy/
     description: the creative process of art-making to improve the mental, physical and emotional well-being of the person
 santocabron:
+  - title: Moonoura - May 18, Brooklyn
+    url:  https://selfconnection.eventbrite.com/?aff=SantoCabron
+    description: Burner Art Fair/Variety Show/Art Exhibition/Art Party in the iconic Brooklyn Monarch! Live performers, visual artists, musicians, DJs & more
   - title: instagram
     url: "https://instagram.com/santo_cabron"
     author: "@santo_cabron"
@@ -87,3 +94,5 @@ santocabron:
     url: https://open.spotify.com/episode/70NH9rBDHOvi1TpERHaEIk?si=d3NzxdQQR1GXT0HSjbmqRA
     author: '@santo_cabron'
     description: Conoce como el santo cabron le enseño vallenato a Felipe el hombre después de que este se lo encontrara caminando con su acordeon por el valle de magdalena
+
+
