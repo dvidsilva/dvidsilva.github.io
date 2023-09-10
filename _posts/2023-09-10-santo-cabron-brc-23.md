@@ -57,9 +57,13 @@ Create smaller camps, sillier camps, less work and more creativity, camps with 2
 
 ## Appendix
 
-### Finances: will post soon
+### Finances
 
-### Spreadsheet: will anonymize or turn into a template and post here
+Will share a breakdown of the money collected and spent. We definitely went over budget, thankfully some campers apported extra to compensate.
+
+### Spreadsheet
+
+Will anonymize or turn into a template and post here
 
 ### Logistics providers:
 
