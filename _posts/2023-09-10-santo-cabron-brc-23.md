@@ -69,7 +69,7 @@ Will anonymize or turn into a template and post here
 
 Here’s some of the places and services we used.
 
-- we got our truck from U-haul, call in person and try finding the right friendly person who knows you’re going to burning man and won’t charge you a huge fee
+- we got our truck from U-haul, call in person and try finding the right friendly person who knows you’re going to burning man and won’t charge you a huge fee, we shared it Mo'Better Burners, a camp run by a good friend
 - we washed the 26 foot truck by hand for around $50 at one of those coin operated places with power washers, air dryers and vacuums
 - we got water delivered on site by OSS provider Jeff Temen in Gerlach
 - we had a big water tank for grey water, and we’d flag a porto truck and pay them cash for grey water removal
