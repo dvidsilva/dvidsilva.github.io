@@ -34,7 +34,7 @@ Building went pretty uneventful, shade, kitchen, etc, the usual.
 
 ## Burn week
 
-Burn week went pretty uneventful.
+Burn week went pretty uneventful. We were located in the 3 sector, supported by the best placers and most awesome peeps in the city.
 
 ## Rain week
 
