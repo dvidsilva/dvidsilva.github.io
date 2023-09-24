@@ -83,3 +83,7 @@ Here’s some of the places and services we used.
 ## Get involved
 
 If you're read this you're likely already involved, stand in front of a mirror and sing the theme song to summon a santo cabrón.
+
+## Stickers
+
+The sticker this year was a regular word sticker with the word "perica" on it. Perica is a word in my country for a female parrot, our national bird.
