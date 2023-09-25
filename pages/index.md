@@ -8,4 +8,6 @@ permalink: '/'
 
 ## Links
 
-[Blog](/blog)
+{{#pages_in_nav files}}
+- [{{item.attrs.title}}]({{item.attrs.permalink}})
+{{/pages_in_nav}}
