@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: Encuentra tu voz leadership workshop
 date: 2023-04-20 12:42:42
+permalink: /2023/encuentra
 description:  This coaching methodology includes practices of logotherapy and bilingual storytelling by professional artists that can help you find your unique mission in life and express it through poetry to craft a cohesive leadership style and the confidence to inspire others
 ---
 

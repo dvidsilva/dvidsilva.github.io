@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: Burning Stones at Disorient Country Club
 date: 2023-06-02 12:42:42
+permalink: /2023/burning-stones
 description:  Excited to announce the opening of our dive bar at the disorient country club
 og_image: /images/posts/burningstones.png
 ---

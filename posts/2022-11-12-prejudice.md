@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: How to live without prejudice, from Alejandro Jodorowsky
 date: 2022-11-12 08:36:00
+permalink: /2022/prejudice
 description: Excerpt  from an answer by Jodorowsky where he offers actionable advice to get rid of prejudice and live enlightened
 ---
 
