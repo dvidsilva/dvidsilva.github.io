@@ -1,9 +1,10 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about
 subtitle: David Silva is a psychomagic practicioner and web developer from Colombia.
-og_image: assets/img/tigerlily.png
+og_image: /images/tigerlily.png
+nav: true
 profile:
   align: right
   image: david.jpg

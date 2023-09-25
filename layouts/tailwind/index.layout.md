@@ -15,7 +15,7 @@ name: index
 <body>
   <div class="">
     <div>
-      {{{html}}}
+      {{{content}}}
     </div>
   </div>
 </body>

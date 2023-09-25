@@ -16,7 +16,7 @@ name: blog
     <div>
       <h1>{{page.title}}</h1>
       <main>
-        {{{html}}}
+        {{{content}}}
       </main>
     </div>
   </div>

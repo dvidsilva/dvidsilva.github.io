@@ -14,3 +14,4 @@ theme:
 css: tailwind
 engine: default
 version: '2'
+baseurl: https://dvidsilva.com

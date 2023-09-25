@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: full
 title: psychomagic
 permalink: /psychomagic/
 description: A short introduction to psychomagic.

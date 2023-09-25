@@ -1,14 +1,13 @@
 ---
-layout: landing
+layout: full
 title: post atlantic by dvidsilva
 permalink: /postatlantic/
-og_image: /assets/img/pa/logo.gif
+og_image: /images/pa/logo.gif
 description: Post Atlantic is a creative and technical talent consultancy
 nav: false
-horizontal: true
 ---
 <div class="projects" style="background: white;padding: 16px 32px;">
-  <img src="/assets/img/pa/logo.gif" alt="santo cabron" >
+  <img src="/images/pa/logo.gif" alt="santo cabron" >
 </div>
 
 ## About
