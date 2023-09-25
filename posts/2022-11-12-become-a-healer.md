@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: Becoming a healer in a community
 date: 2022-11-12 09:36:00
+permalink: /2022/become-a-healer
 description: There's healing potential in a community that anyone can use to heal themselves and others around them
 ---
 

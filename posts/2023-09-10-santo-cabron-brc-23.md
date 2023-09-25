@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: Santo Cabrón at Black Rock City 2023
 date: 2023-09-10 04:20:15
+permalink: /2023/santo-cabron-brc-23
 description: Tales of a mythical creature visiting BRC
 og_image: /images/posts/santo-cabron-kitchen.JPG
 ---

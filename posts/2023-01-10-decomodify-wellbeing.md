@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: decomodify wellbeing
 date: 2023-01-10 07:20:00
+permalink: /2023/decomodify-wellbeing
 description: wellbeing is not something you can buy
 og_image: /images/posts/chopra.jpg
 ---

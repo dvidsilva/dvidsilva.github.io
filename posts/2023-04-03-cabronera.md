@@ -2,6 +2,7 @@
 layout: blog
 type: post
 title: Cabronera
+permalink: /2023/cabronera
 date: 2023-04-03 12:42:42
 description:
 ---

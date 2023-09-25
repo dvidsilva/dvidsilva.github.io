@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: Super Productivity tips
 date: 2022-12-25 00:04:20
+permalink: /2022/superproductivity
 description: do more by sleeping more
 og_image: /images/posts/rayogram.jpeg
 ---

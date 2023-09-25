@@ -4,6 +4,7 @@ type: post
 title: Callejera, el arte marcial colombiano y su historia.
 date: 2023-06-06 12:12:42
 description: Introduction to Colombian martial arts and rankings
+permalink: /2023/nyerismo-callejerismo
 og_image: /images/posts/callejera.png
 ---
 

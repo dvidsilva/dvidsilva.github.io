@@ -3,6 +3,7 @@ layout: blog
 type: post
 title: Santo Cabron
 date: 2022-12-05 09:20:00
+permalink: /2022/santo-cabron
 description: Creating a latinx artists collective
 og_image: /images/posts/santo_cabron_team.jpg
 ---
