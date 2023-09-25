@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: full
 title: about
 permalink: /about
 subtitle: David Silva is a psychomagic practicioner and web developer from Colombia.
@@ -23,7 +23,7 @@ To learn more about [psychomagic](/psychomagic), and their work checkout the boo
 
 David has been involved in activism, community, public speaking, spirituality and arts for 20+ years. They're currently working as a web developer and producer around New York, and offering coaching services.
 
-{% include figure.html path="/assets/img/tigerlily.png" class="img-fluid rounded z-depth-1" %}
+<img src="/images/tigerlily.png" class="img-fluid rounded z-depth-1" >
 
 David and his fiance Lily are on a mission to heal the planet by practicing and encouraging kindness. Learn more about [our queendom](https://github.com/dvidsilva/queendom).
 

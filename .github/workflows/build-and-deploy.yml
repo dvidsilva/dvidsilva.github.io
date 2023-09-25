@@ -30,12 +30,12 @@ jobs:
       - name: Copy 🔧 # Copies public folder to dest
         run: npm run copy
 
-      # - name: Upload Artifact
-      #   uses: actions/upload-pages-artifact@v1
-      #   with:
-      #     path: ./build # The folder the action should deploy.
-      #     name: github-pages
-      #     retention-days: 1
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./build # The folder the action should deploy.
+          name: github-pages
+          retention-days: 1
 
-      # - name:  Deploy  🚀
-      #   uses: actions/deploy-pages@v1
+      - name:  Deploy  🚀
+        uses: actions/deploy-pages@v1

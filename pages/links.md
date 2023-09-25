@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: full
 title: links
 permalink: /links/
 description: A growing collection of links to interesting content.
