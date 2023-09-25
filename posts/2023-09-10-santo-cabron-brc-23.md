@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: blog
+type: post
 title: Santo Cabrón at Black Rock City 2023
 date: 2023-09-10 04:20:15
 description: Tales of a mythical creature visiting BRC
-og_image: /assets/img/posts/santo-cabron-kitchen.JPG
+og_image: /images/posts/santo-cabron-kitchen.JPG
 ---
 
 ## Intro
@@ -78,7 +79,7 @@ Here’s some of the places and services we used.
 - nyc burners used the nyc container camp to get their things delivered on playa
 
 
-<img src="/assets/img/posts/santo-cabron-kitchen.JPG" style="max-width: 100%; margin-bottom: 16px;" alt="logo no oficial de la asociacion caleña para la promocion y la defensa de la cultura que promueve la callejera saludable, segura y con condom, con abreviatura: ACPDCPCSSC o a ce pe de ce pe ce ese ese ce para mas corto. la imagen depicta a un conejo salvaje en un valle en llamas." >
+<img src="/images/posts/santo-cabron-kitchen.JPG" style="max-width: 100%; margin-bottom: 16px;" alt="logo no oficial de la asociacion caleña para la promocion y la defensa de la cultura que promueve la callejera saludable, segura y con condom, con abreviatura: ACPDCPCSSC o a ce pe de ce pe ce ese ese ce para mas corto. la imagen depicta a un conejo salvaje en un valle en llamas." >
 
 ## Get involved
 

@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: blog
+type: post
 title: tw suicide - people don't kill themselves, society kills them
 date: 2022-10-24 10:24:00
 description: 'trigger warning: suicide. Sharing some of my personal experiences in the hope it can be helpful to other people and their friends'

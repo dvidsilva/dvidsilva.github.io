@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: blog
+type: post
 title: Callejera, el arte marcial colombiano y su historia.
 date: 2023-06-06 12:12:42
 description: Introduction to Colombian martial arts and rankings
-og_image: /assets/img/posts/callejera.png
+og_image: /images/posts/callejera.png
 ---
 
 **También conocida como ñerismo.**
@@ -34,4 +35,4 @@ Our logo depicts a bunny because it is from the wilderness and the constant awe 
 
 La asociacion caleña para la promocion y la defensa de la cultura que promueve la callejera saludable, segura y con condom, con abreviatura: ACPDCPCSSC o a ce pe de ce pe ce ese ese ce para más corto.
 
-<img src="/assets/img/posts/callejera.png" style="max-width: 100%; margin-bottom: 16px;" alt="logo no oficial de la asociacion caleña para la promocion y la defensa de la cultura que promueve la callejera saludable, segura y con condom, con abreviatura: ACPDCPCSSC o a ce pe de ce pe ce ese ese ce para mas corto. la imagen depicta a un conejo salvaje en un valle en llamas." >
+<img src="/images/posts/callejera.png" style="max-width: 100%; margin-bottom: 16px;" alt="logo no oficial de la asociacion caleña para la promocion y la defensa de la cultura que promueve la callejera saludable, segura y con condom, con abreviatura: ACPDCPCSSC o a ce pe de ce pe ce ese ese ce para mas corto. la imagen depicta a un conejo salvaje en un valle en llamas." >
