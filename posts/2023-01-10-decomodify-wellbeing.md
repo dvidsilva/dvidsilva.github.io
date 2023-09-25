@@ -1,15 +1,21 @@
 ---
-layout: post
+layout: blog
+type: post
 title: decomodify wellbeing
 date: 2023-01-10 07:20:00
 description: wellbeing is not something you can buy
-og_image: assets/img/posts/chopra.jpg
+og_image: /images/posts/chopra.jpg
 ---
 
-While is very encouraging to see more people talking about their wellbeing, particularly mental health, it still bothers me significantly how there's so many people trying to take advantage of it for profit. This is not a new concern; when Deepak Chopra visited Colombia in 2006, we had the chance to be on the organizing team and see behind the scenes of the wellness industry and its disregard for wellbeing.
+While is very encouraging to see more people talking about their wellbeing,
+particularly mental health, it still bothers me significantly how there's so
+many people trying to take advantage of it for profit. This is not a new
+concern; when Deepak Chopra visited Colombia in 2006, we had the chance to be on
+the organizing team and see behind the scenes of the wellness industry and its
+disregard for wellbeing.
 
 
-<img src="/assets/img/posts/chopra.jpg" alt="my younger brother and deepak chopra" style="max-width: 100%">
+<img src="/images/posts/chopra.jpg" alt="my younger brother and deepak chopra" style="max-width: 100%">
 
 Today we see several startups taking advantage of this, [pushing pills](https://www.msn.com/en-us/health/medical/scary-easy-sketchy-as-hell-how-startups-are-pushing-adderall-on-tiktok/ar-AA11dWDm) on people, selling overpriced subscriptions, trying to gate keep substances and force price increases, while at the same time forcing people into alienation, loneliness, debt and constant cycles of suffering that trap individuals in a vicious circle that is difficult to escape. Somehow we know that [consultants are creating marketing pitches to kill thousands of people with opioids](https://www.consulting.ca/news/2551/mckinsey-faces-class-action-lawsuit-for-alleged-role-in-opioid-crisis-in-canada) and yet, people keep trusting them and the other initiatives they promote. None of them go to prison or face any consequence, all the power of the state must be used to invent a war on drugs to uphold white supremacy and the [racists values](https://www.gatewayfoundation.org/addiction-blog/racism-war-on-drugs/) that allow capitalism to exist. The iran-contra scandal is well known, and I hope more information is also revealed on the ways the Colombian narco government and the USA worked together to control the cocaine market.
 

@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: blog
+type: post
 title: Super Productivity tips
 date: 2022-12-25 00:04:20
 description: do more by sleeping more
-og_image: assets/img/posts/rayogram.jpeg
+og_image: /images/posts/rayogram.jpeg
 ---
 
 **Happy holidays 2022! Hannukah 5783! 🪬 Now that many are planning their upcoming year I wanted to share some of my easiest productivity tips.**
@@ -62,6 +63,6 @@ Create a personal system where you organize your tasks in a way that doesn't bec
 
 Is easier to get closer to what you want by creating a system and focusing your goals in activities and not in output. For example by phrasing your goal as "write 10 minutes every day" you will be succeding at it daily vs setting a goal as "write a book", and the book is more likely to be completed.
 
-<img src="/assets/img/posts/rayogram.jpeg" alt="Rayogram from college" style="max-width: 100%">
+<img src="/images/posts/rayogram.jpeg" alt="Rayogram from college" style="max-width: 100%">
 
 Make a system that provides you with the things that you need instead of trying to adapt yourself to someone elses's guidance.

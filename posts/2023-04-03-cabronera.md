@@ -1,15 +1,16 @@
 ---
-layout: post
-title: Cabronera 
+layout: blog
+type: post
+title: Cabronera
 date: 2023-04-03 12:42:42
-description: 
+description:
 ---
 
 # Cabronera
 
-Desigining a stage structure that packs well and can be transported, build and break down easily for multiple burning man events around the country. 
+Desigining a stage structure that packs well and can be transported, build and break down easily for multiple burning man events around the country.
 
-The design builds on years of experience of structures in the desert, and other high risk regions. It uses lightweight material, easy to acquire and replace, easy to prepackage and install. 
+The design builds on years of experience of structures in the desert, and other high risk regions. It uses lightweight material, easy to acquire and replace, easy to prepackage and install.
 
 
 **Introduction**
