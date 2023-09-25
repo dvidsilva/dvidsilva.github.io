@@ -1,0 +1,35 @@
+{
+  "name": "daveedsilva",
+  "version": "1.0.0",
+  "description": "Personal website built with GloriaJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'test'",
+    "gloria-local": "../gloria/bin/gloria",
+    "gloria": "./node_modules/gloriajs/bin/gloria",
+    "write": "./node_modules/gloriajs/bin/gloria write",
+    "local-server": "npx -y http-server build",
+    "copy": "./node_modules/gloriajs/bin/gloria copy",
+    "css:tailwind": "./node_modules/gloriajs/bin/gloria css:tailwind",
+    "build": "./node_modules/gloriajs/bin/gloria build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvidsilva/dvidsilva.github.io.git"
+  },
+  "keywords": [
+    "dvidsilva",
+    "santocabron",
+    "gloriajs",
+    "daveed"
+  ],
+  "author": "daveed",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/dvidsilva/dvidsilva.github.io/issues"
+  },
+  "homepage": "https://github.com/dvidsilva/dvidsilva.github.io#readme",
+  "dependencies": {
+    "gloriajs": "^2.2.1"
+  }
+}
