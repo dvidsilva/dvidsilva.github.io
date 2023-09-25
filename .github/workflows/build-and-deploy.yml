@@ -22,13 +22,13 @@ jobs:
           node-version: 16
 
       - name: Install
-        run: yarn install --ignore-optional
+        run: npm install
 
       - name: Build 🔧 # Creates the build folder to deploy
-        run: yarn css:tailwind
+        run: npm run css:tailwind
 
       - name: Copy 🔧 # Copies public folder to dest
-        run: yarn copy
+        run: npm run copy
 
       # - name: Upload Artifact
       #   uses: actions/upload-pages-artifact@v1
