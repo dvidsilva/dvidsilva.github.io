@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: full
 title: services
 permalink: /services/
 description: A brief description of my offerings.
