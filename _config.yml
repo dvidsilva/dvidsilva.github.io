@@ -9,6 +9,8 @@ copy:
     - public
 exclude:
     - .draft.md
+data:
+    - data
 theme:
     - layouts/tailwind
 css: tailwind
