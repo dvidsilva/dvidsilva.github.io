@@ -9,7 +9,9 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
-
+```
+@TODO: missing data interpolation
+```
 <!-- pages/links.md -->
 <div class="projects">
   <!-- Display categorized links -->

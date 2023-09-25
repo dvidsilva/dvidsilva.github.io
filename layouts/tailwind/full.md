@@ -30,7 +30,7 @@ name: full
             lg:pt-[160px]
             pb-[100px]">
             <div class="inner">
-                {{{html}}}
+                {{{content}}}
             </div>
         </div>
     </body>

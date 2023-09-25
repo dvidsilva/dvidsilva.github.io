@@ -1,14 +1,19 @@
 ---
-layout: landing
-title: santo cabron
-permalink: /santocabron/
-og_image: /assets/img/santocabron-horizontal.png
-description: 'Santo Cabron is an alterlatinx art collective in NY. Support their brujas and warlocks create participatory experiences. #alterlatinx #horneylife #santocabron'
-nav: false
+layout: page
+title: links
+permalink: /links/
+description: A growing collection of links to interesting content.
+nav: true
+nav_order: 1
+display_categories: [work, fun]
 horizontal: true
 ---
-## Links in bio
 
+
+```
+@TODO: missing data interpolation
+```
+<!-- pages/links.md -->
 <div class="projects">
   <!-- Display categorized links -->
   <h2 class="category"></h2>
@@ -16,7 +21,7 @@ horizontal: true
     {% if page.horizontal -%}
     <div class="container">
       <div class="row row-cols-1">
-      {%- for link in site.data.links.santocabron %}
+      {%- for link in site.data.links.general %}
         {% include links_horizontal.html %}
       {% endfor %}
       {%- for link in site.data.links.books %}
@@ -31,6 +36,7 @@ horizontal: true
       {% endfor %}
     </div>
     {%- endif -%}
-  <img src="/assets/img/santocabron-horizontal.png" alt="santo cabron" style="max-width: 100%">
+  <p>
+    <a rel="me" href="https://mstdn.social/@daveed">@Mastodon</a>
+  </p>
 </div>
-
