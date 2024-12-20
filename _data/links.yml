@@ -1,17 +1,25 @@
 general:
-  - title: AWSM
-    url: "https://awsm.vc"
-    category: venture studio
-    description: newly formed venture school and studio created to provide analysis, product development support, coaching and capital access to early stage startups.
+  - title: Markket.place
+    url: https://markket.place
+    category: ëCommerce community platform
+    description: we’re building a platform that gives artists and small business owners the tools to launch, grow, and manage their online presence
   - title: morir soñando
     url: "https://www.morirsoniando.com"
     author: "@dvidsilva"
     category: shop
     description: morir soñando is an online store where you can buy designs by daveed and his friends
-  - title: sticker mule store
-    url: https://www.stickermule.com/u/daveed
+  - title: NekkoPet
+    url: https://nekkopet.com/
     category: shop
-    description: order some of my stickers and designs directly to your home
+    description: Collect art pieces inspired by our pets and support animal shelters
+  - title: Calima EHR
+    url: https://ehr.caliman.org
+    category: software
+    description: Calima EHR is a mental health electronic health record system that helps therapists and counselors manage their practice
+  - title: BlueSky
+    url: https://bsky.app/profile/dvidsilva.bsky.social
+    category: social
+    description: Follow me on the BlueSky social network
   - title: Mastodon
     url: https://mstdn.social/@daveed
     category: social
